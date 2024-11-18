@@ -1,6 +1,6 @@
 # YOLO Object Detection Using Darknet
 
-This repository contains the necessary steps to set up YOLO (You Only Look Once) object detection using the Darknet framework. The following guide will help you clone the repository, run object detection on both images and videos, and adjust settings like threshold and `ext_output` for enhanced results.
+This project demonstrates how to use the YOLO (You Only Look Once) object detection algorithm with the Darknet framework. YOLO is a fast and accurate deep learning model used for real-time object detection in images and videos. The project provides an easy setup and usage guide to detect objects in both images and videos using pre-trained YOLOv4 weights. By following the instructions in this repository, you can quickly get started with object detection, adjust detection thresholds, and use additional features like detailed output for detected objects.
 
 ## Steps to Run YOLO with Darknet
 
